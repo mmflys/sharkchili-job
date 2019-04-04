@@ -1,3 +1,6 @@
+# IDEA project file
+*.iml
+
 # Compiled class file
 *.class
 
